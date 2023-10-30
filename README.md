@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Secret Project**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **Noflare.dev@gmail.com**
 
